@@ -1,8 +1,6 @@
 <h1 align="center">Hello☝️Gank My name is Zaeldin Al Muhdor</h1>
 <h3 align="center">A passionate frontend developer from Singapore</h3>
 
-<img align="right" alt="coding" wedth="400" src"=https://gifdb.com/gif/anime-food-young-goku-ra51426olndh8f5b.gif>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaeldin&label=Profile%20views&color=0e75b6&style=flat" alt="zaeldin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaeldin" alt="zaeldin" /></a> </p>
